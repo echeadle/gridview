@@ -1,0 +1,17 @@
+I have a 12 pictures. The pictures are in an 10 by 6 grid. The picture is formed of 8 of the grids colored in. Each position in the grid is denoted by an integer. from 1 to 60.
+The pictures are discribed below, each picture has a date in the form of month_day, and then a python list of 8 integers from 1 to 60.  Looking at the pictures, please determine what the next picture in the series would be. Here is a list of pictures:
+
+w_aug_19 = [1, 10, 17, 27, 44, 51, 53, 59]
+w_aug_26 = [4, 18, 30, 41, 50, 56, 57, 58]
+w_sep_02 = [10, 12, 21, 31, 37, 38, 41, 60]
+w_sep_09 = [3, 6, 13, 14, 15, 21, 37, 54]
+w_sep_16 = [7, 8, 18, 19, 25, 33, 43, 47]
+w_sep_23 = [2, 15, 18, 19, 24, 27, 30, 57]
+w_sep_30 = [2, 9, 10, 11, 23, 45, 55, 56]
+w_oct_07 = [5, 13, 19, 41, 50, 51, 56, 60]
+w_oct_14 = [3, 4, 12, 15, 33, 38, 53, 60]
+w_oct_21 = [1, 6, 10, 38, 42, 44, 52, 55]
+w_oct_28 = [6, 7, 10, 17, 20, 24, 30, 38]
+w_nov_04 = [1, 4, 8, 11, 35, 40, 46, 53]
+
+What is the next picture in the series, and give me a python list representing the picture.
